@@ -25,15 +25,9 @@ const TodayPicks = (props) => {
                   <div id="item_category" className="dropdown">
                     <Dropdown>
                       <Dropdown.Toggle id="dropdown-basic">
-                        All categories
+                        NFT'Z em Destaque
                       </Dropdown.Toggle>
-                        <Dropdown.Menu style={{ margin: 0 }}>
-                        <Dropdown.Item href="#">Abstraction</Dropdown.Item>
-                        <Dropdown.Item href="#">Skecthify</Dropdown.Item>
-                        <Dropdown.Item href="#">Patternlicious</Dropdown.Item>
-                        <Dropdown.Item href="#">Virtuland</Dropdown.Item>
-                        <Dropdown.Item href="#">Papercut</Dropdown.Item>
-                      </Dropdown.Menu>
+
                     </Dropdown>
                   </div>
                   

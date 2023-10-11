@@ -74,7 +74,7 @@ const menus = [
     },
     {
         id: 4,
-        name: 'Community',
+        name: 'Explore',
         links: '#',
         namesub: [
             {
