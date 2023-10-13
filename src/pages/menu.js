@@ -92,6 +92,7 @@ const menus = [
                 sub: 'Help Center',
                 links: '/help-center'
             }
+            
         ],
     },
     {
@@ -153,7 +154,7 @@ const menus = [
     },
     {
         id: 7,
-        name: 'Contact',
+        name: 'News',
         links: '/contact-01',
         namesub: [
             {
