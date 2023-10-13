@@ -20,14 +20,9 @@ const Blog = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="page-title-heading mg-bt-12">
-                                <h1 className="heading text-center">Blog</h1>
+                                <h1 className="heading text-center">Empresa</h1>
                             </div>
                             <div className="breadcrumbs style2">
-                                <ul>
-                                    <li><Link to="/">Home</Link></li>
-                                    <li><Link to="#">Community</Link></li>
-                                    <li>Blog</li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -77,7 +72,7 @@ const BlogItem = props => (
                 <h3><Link to="/blog-details">{props.item.title}</Link></h3>
                 <p>{props.item.content}</p>
             </div>
-            <Link to="/blog-details" className="sc-button fl-button pri-3"><span>Read More</span></Link>
+            <Link to="/blog-details" className="sc-button fl-button pri-3"><span>Buy Now</span></Link>
         </article>
     </div>
 )
