@@ -20,7 +20,7 @@ const Blog = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="page-title-heading mg-bt-12">
-                                <h1 className="heading text-center">Empresa</h1>
+                                <h1 className="heading text-center">Explore</h1>
                             </div>
                             <div className="breadcrumbs style2">
                             </div>

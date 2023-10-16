@@ -51,8 +51,6 @@ const menus = [
         name: 'NFTZ',
         links: '#',
         namesub: [
-
-            
         ],
     },
     {
@@ -159,13 +157,18 @@ const menus = [
         namesub: [
             {
                 id: 1,
-                sub: 'Contact 1',
+                sub: 'Noticias',
                 links: '/contact-01'
             },
             {
                 id: 2,
-                sub: 'Contact 2',
-                links: '/contact-02'
+                sub: 'Ultimos Posts',
+                links: '/Últimos Posts'
+            },
+            {
+                id: 3,
+                sub: 'Ultimas Noticias',
+                links: '/Ultimas Noticias'
             }
         ],
     },
