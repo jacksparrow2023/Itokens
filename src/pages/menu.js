@@ -9,41 +9,7 @@ const menus = [
                 sub: 'Home 01',
                 links: '/'
             },
-            {
-                id: 2,
-                sub: 'Home 02',
-                links: '/home-02'
-            },
-            {
-                id: 3,
-                sub: 'Home 03',
-                links: '/home-03'
-            },
-            {
-                id: 4,
-                sub: 'Home 04',
-                links: '/home-04'
-            },
-            {
-                id: 5,
-                sub: 'Home 05',
-                links: '/home-05'
-            },
-            {
-                id: 6,
-                sub: 'Home 06',
-                links: '/home-06'
-            },
-            {
-                id: 7,
-                sub: 'Home 07',
-                links: '/home-07'
-            },
-            {
-                id: 8,
-                sub: 'Home 08 (Special)',
-                links: '/home-08'
-            },
+
         ]
     },
     {
@@ -60,7 +26,7 @@ const menus = [
     },
     {
         id: 3,
-        name: 'Activity',
+        name: 'Tokenz',
         links: '#',
         namesub: [
             {
@@ -68,7 +34,11 @@ const menus = [
                 sub: 'Activity 01',
                 links: '/activity-01'
             },
-
+            {
+                id: 2,
+                sub: 'Activity 02',
+                links: '/activity-02'
+            }
         ],
     },
     {
@@ -96,7 +66,7 @@ const menus = [
     },
     {
         id: 5,
-        name: 'Page',
+        name: 'Blockchain',
         links: '#',
         namesub: [
             {
@@ -109,46 +79,20 @@ const menus = [
                 sub: 'Authors 02',
                 links: '/authors-02'
             },
+
+        ],
+    },
+    {
+        id: 7,
+        name: 'Empresa',
+        links: '/contact-01',
+        namesub: [
             {
-                id: 3,
-                sub: 'Wallet Connect',
-                links: '/wallet-connect'
+                id: 1,
+                sub: 'Noticias',
+                links: '/contact-01'
             },
-            {
-                id: 4,
-                sub: 'Create Item',
-                links: '/create-item'
-            },
-            {
-                id: 5,
-                sub: 'Edit Profile',
-                links: '/edit-profile'
-            },
-            {
-                id: 6,
-                sub: 'Ranking',
-                links: '/ranking'
-            },
-            {
-                id: 7,
-                sub: 'Login',
-                links: '/login'
-            },
-            {
-                id: 8,
-                sub: 'Sign Up',
-                links: '/sign-up'
-            },
-            {
-                id: 9,
-                sub: 'No Result',
-                links: '/no-result'
-            },
-            {
-                id: 10,
-                sub: 'FAQ',
-                links: '/faq'
-            }
+
         ],
     },
     {
@@ -161,16 +105,7 @@ const menus = [
                 sub: 'Noticias',
                 links: '/contact-01'
             },
-            {
-                id: 2,
-                sub: 'Ultimos Posts',
-                links: '/Últimos Posts-02'
-            },
-            {
-                id: 3,
-                sub: 'Ultimas Noticias',
-                links: '/Ultimas Noticias'
-            }
+
         ],
     },
     
