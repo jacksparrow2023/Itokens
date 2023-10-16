@@ -51,6 +51,11 @@ const menus = [
         name: 'NFTZ',
         links: '#',
         namesub: [
+            {
+                id: 1,
+                    sub: 'NFTZ 01',
+                    links: '/'
+            }
         ],
     },
     {
@@ -63,11 +68,7 @@ const menus = [
                 sub: 'Activity 01',
                 links: '/activity-01'
             },
-            {
-                id: 2,
-                sub: 'Activity 02',
-                links: '/activity-02'
-            }
+
         ],
     },
     {
@@ -163,7 +164,7 @@ const menus = [
             {
                 id: 2,
                 sub: 'Ultimos Posts',
-                links: '/Últimos Posts'
+                links: '/Últimos Posts-02'
             },
             {
                 id: 3,
