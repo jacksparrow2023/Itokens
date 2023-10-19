@@ -14,7 +14,7 @@ const Activity01 = () => {
         [
             {
                 img: img1,
-                title: 'Monica Lucas',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -22,7 +22,7 @@ const Activity01 = () => {
             },
             {
                 img: img2,
-                title: 'Wow! That Brain Is Floating',
+                title: 'ITLC Token',
                 status: '10 editions listed by',
                 author: 'Meowbids',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -30,7 +30,7 @@ const Activity01 = () => {
             },
             {
                 img: img3,
-                title: 'Erotic 35mm And Polaroid Photography',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -38,7 +38,7 @@ const Activity01 = () => {
             },
             {
                 img: img4,
-                title: 'Our Journey Start',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -46,7 +46,7 @@ const Activity01 = () => {
             },
             {
                 img: img5,
-                title: 'Skrrt Cobain Official',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -54,7 +54,7 @@ const Activity01 = () => {
             },
             {
                 img: img1,
-                title: 'Monica Lucas',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -62,7 +62,7 @@ const Activity01 = () => {
             },
             {
                 img: img2,
-                title: 'Wow! That Brain Is Floating',
+                title: 'ITLC Token',
                 status: '10 editions listed by',
                 author: 'Meowbids',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -70,7 +70,7 @@ const Activity01 = () => {
             },
             {
                 img: img3,
-                title: 'Erotic 35mm And Polaroid Photography',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -78,7 +78,7 @@ const Activity01 = () => {
             },
             {
                 img: img4,
-                title: 'Our Journey Start',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
@@ -86,7 +86,7 @@ const Activity01 = () => {
             },
             {
                 img: img5,
-                title: 'Skrrt Cobain Official',
+                title: 'ITLC Token',
                 status: 'started following',
                 author: 'Gayle Hicks',
                 time: 'At 2:30 PM on 19th June, 2021',
